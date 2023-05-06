@@ -1,4 +1,4 @@
-## Spotify Clone
+## Spotify Clone 🎧
 
 ## Table of contents
 
@@ -20,9 +20,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://github.com/aruntutter/Spotify-Clone)
+- Live Site URL: [here](https://aruntutter.github.io/Spotify-Clone/)
+- Live Site URL: [here](https://enchanting-mermaid-711ff7.netlify.app)
 
 ## My process
 
