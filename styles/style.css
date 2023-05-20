@@ -138,7 +138,7 @@ li {
 }
 .topbar .prev-next-buttons button {
   color: #7a7a7a;
-  cursor: not-allowed;
+  /* cursor: not-allowed; */
   width: 34px;
   height: 34px;
   border-radius: 100%;
